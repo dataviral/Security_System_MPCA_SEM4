@@ -1,0 +1,19 @@
+{
+  "name": "web_auth_server",
+  "version": "1.0.0",
+  "description": "Server to send user a qrcode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mpca",
+    "qrcode"
+  ],
+  "author": "Aviral Joshi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "python-shell": "^0.4.0"
+  }
+}
